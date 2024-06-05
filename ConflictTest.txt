@@ -1,3 +1,1 @@
 This is test message.
-
-Merge branch 'main' into test_2.
